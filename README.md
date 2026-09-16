@@ -83,6 +83,7 @@ We believe that a continuing and high-quality output is the best way to strength
     - [8.10 [Advanced] How to Create a Gamer Wallet Profile](https://www.footprint.network/article/8-10-advanced-how-to-create-a-gamer-wallet-profile-fp-sVGpKxJA)
 - Footprint Analytics for crypto investor
     - [9.1 [Intermediate] Tracking Crypto Cash Flow Using Stable Coin As An Example](https://www.footprint.network/article/9-1-intermediate-tracking-crypto-cash-flow-using-stable-coin-as-an-example-j2QpQDtq)         
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
    
 ## Contributing
 
